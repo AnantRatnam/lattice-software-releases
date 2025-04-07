@@ -4,6 +4,14 @@
 
 This document lists historical Lattice firmware (HSM) releases and the corresponding changelogs.
 
+### [v0.18.7](https://github.com/GridPlus/lattice-software-releases/releases/tag/hsm-0.18.7)
+
+*Published April 7, 2025*
+
+**Fixes**
+* (#2747) Non-exportable card functionality and xpub
+
+
 ### [v0.18.6](https://github.com/GridPlus/lattice-software-releases/releases/tag/hsm-0.18.6)
 
 *Published January 31, 2025*
