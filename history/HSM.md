@@ -4,6 +4,18 @@
 
 This document lists historical Lattice firmware (HSM) releases and the corresponding changelogs.
 
+
+### [v0.18.8](https://github.com/GridPlus/lattice-software-releases/releases/tag/hsm-0.18.8)
+
+*Published June 18, 2025*
+
+**Features**
+* (#2748) EIP-7702 support
+
+**Fixes**
+* (#2745) regtest support
+
+
 ### [v0.18.7](https://github.com/GridPlus/lattice-software-releases/releases/tag/hsm-0.18.7)
 
 *Published April 7, 2025*
